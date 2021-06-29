@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Create Your Own Pizza</string>
+    <string name="chef">BE YOUR OWN CHEF</string>
+    <string name="size">Step 1: Select size</string>
+    <string name="munch">I need a munch</string>
+    <string name="hungry">I\'m hungry</string>
+    <string name="horse">I can eat a horse</string>
+    <string name="toppings">Step 2: Select toppings</string>
+    <string name="cheese">Cheese</string>
+    <string name="pepporoni">Pepporoni</string>
+    <string name="chicken">Chicken</string>
+    <string name="beef">Beef</string>
+    <string name="bacon">Bacon</string>
+    <string name="olives">Olives</string>
+    <string name="pineapple">Pineapple</string>
+    <string name="capsicum">Capsicum</string>
+    <string name="mushroom">Mushroom</string>
+    <string name="crust">Step 3: Select crust</string>
+    <string name="thin">Thin</string>
+    <string name="sicillian">Sicillian Style</string>
+    <string name="stuffed">Stuffed</string>
+    <string name="order">Order</string>
+</resources>
